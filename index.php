@@ -1,0 +1,1 @@
+<?php // 'No e-mails, no faxes, no phone calls, no nothing. Simply silence, Lloyd.'
